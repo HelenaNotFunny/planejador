@@ -1,0 +1,54 @@
+ID;Nome;Latitude;Longitude
+#1;Natal - Viaduto de Ponta Negra;-5.8483;-35.2086
+#1A;Natal - Viaduto da Urbana;-5.8002;-35.2384
+#1B;Natal - Estacao Bela Vista;-5.7234;-35.2793
+#2;Mossoro - Centro;-5.1920;-37.3426
+#2A;Mossoro - Entroncamento 1;-5.2261;-37.3236
+#2B;Mossoro - Entroncamento 2;-5.2259;-37.3321
+#2C;Mossoro - Entroncamento 3;-5.2183;-37.3648
+#2D;Mossoro - Entroncamento 4;-5.1936;-37.3780
+#2E;Mossoro - Jucuri;-5.2158;-37.4985
+#3;Parnamirim;-5.8921;-35.2570
+#4;Sao Goncalo do Amarante;-5.7875;-35.3279
+#4A;Sao Goncalo do Amarante - Entroncamento 1;-5.7708;-35.2690
+#4B;Sao Goncalo do Amarante - Entroncamento 2;-5.7631;-35.2871
+#5;Macaiba;-5.8642;-35.3441
+#5A;Macaiba - Tabajara;-5.8894;-35.4891
+#6;Ceara-Mirim;-5.6504;-35.4261
+#7;Extremoz;-5.7058;-35.3033
+#8;Caico - Centro;-6.4605;-37.0961
+#8A;Caico - Entroncamento 1;-6.4562;-37.0549
+#8B;Caico - Entroncamento 2;-6.4293;-37.0838
+#8C;Caico - Entroncamento 3;-6.4522;-37.1267
+#9;Assu;-5.6034;-36.9180
+#9A;Assu - Entroncamento 1;-5.5882;-36.9683
+#10;Sao Jose de Mipibu;-6.0783;-35.2340
+#11;Currais Novos;-6.2775;-36.5226
+#11A;Currais Novos - Entroncamento 1;-6.2026;-36.3985
+#12;Santa Cruz;-6.2281;-36.0180
+#13;Apodi;-5.6654;-37.7995
+#13A;Apodi - Entrocamento 1;-5.7042;-37.8048
+#14;Nova Cruz;-6.4771;-35.4393
+#15;Joao Camara;-5.5414;-35.8029
+#16;Touros;-5.2037;-35.4963
+#17;Nisia Floresta;-6.0915;-35.2080
+#18;Pau dos Ferros;-6.1125;-38.2062
+#19;Canguaretama;-6.3936;-35.1400
+#20;Macau;-5.1187;-36.6299
+#20A;Macau - Macauzinho;-5.1507;-36.5956
+#22;Goianinha;-6.2699;-35.2091
+#26;Santo Antonio;-6.3137;-35.4789
+#28;Caraubas;-5.7801;-37.5608
+#29;Jucurutu;-6.0316;-37.0158
+#42;Alto do Rodrigues - Entroncamento 1;-5.2886;-36.7598
+#54;Patu;-6.0911;-37.6404
+#61;Acari;-6.4319;-36.6398
+#63;Serra Caiada;-6.1031;-35.7044
+#72;Lajes;-5.7055;-36.2408
+#73;Campo Grande;-5.8684;-37.3152
+#88;Riachuelo - Entroncamento 1;-5.7676;-35.8594
+#90;Itaja;-5.6303;-36.8634
+#95;Serrinha;-6.2696;-35.5017
+#117;Santa Maria;-5.8420;-35.6909
+#143;Triunfo Potiguar;-5.8591;-37.1964
+#0;Fernando de Noronha;-3.8461;-32.4120
